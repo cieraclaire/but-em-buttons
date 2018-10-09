@@ -21,7 +21,7 @@ h1, p {
 .btn:hover,
 .btn:focus {
   border-color: #90ccc3;
-  background-color: rgba(180, 2555, 244, .2);
+  background-color: rgba(180, 255, 244, .2);
 }
 
 .btn:hover .icon {
